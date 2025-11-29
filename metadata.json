@@ -1,0 +1,7 @@
+{
+  "name": "Dungeon Master Live",
+  "description": "An immersive voice-controlled RPG Game Master powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
